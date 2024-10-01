@@ -36,8 +36,10 @@ print(days)
 s={1,2,3,2,3,4,}
 print(s)
 
+# key values
 d = {'roll': 11, 'name':'Bhava'}
 print(d['roll'], d['name'])
 
 d = {'roll': 11, 'name':'Bhava',0:'First dict'}
 print(d[0])
+
