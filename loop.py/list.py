@@ -31,3 +31,8 @@ days.insert(0,2)
 print(days) 
 days.remove(6)
 print(days) 
+
+# sets will not allow duplicates
+s={1,2,3,2,3,4,}
+print(s)
+
