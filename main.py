@@ -1,5 +1,8 @@
-age = 17
-if age>18 :
-    print("Eligible to vote")
+age = 24
+if (age>80 and age<=100):
+   print("A grade")
+elif (age>60 and age<=80):
+   print("B grade")    
 else :
-    print("Not eligible")    
+   print("C grade")
+        
